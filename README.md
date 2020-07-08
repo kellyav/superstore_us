@@ -15,6 +15,7 @@ Profit may vary state to state due to taxes and cost of living. Number of Sales 
 ## SQL
 
 - **orders_queries.sql**
+
 Answers these 3 main questions, using SQL commands.
 
 ## Tableau:
