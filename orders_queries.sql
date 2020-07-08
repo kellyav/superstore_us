@@ -97,3 +97,5 @@ SELECT AVG(Profit) AS avg_prof, [Sub-Category]
 FROM dbo.Orders
 GROUP BY [Sub-Category]
 ORDER BY avg_prof DESC;
+
+-- denied permissions to create a table of the outputs of these queries due to the db not beng mine, and having permission restrictions.
