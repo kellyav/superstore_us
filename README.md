@@ -55,7 +55,7 @@ Dashboard is filtered to only include negative profit margin. This is a tool to 
 
 
 ## Potential consequences from this analysis:
-1.Optimize locations.
+1. Optimize locations.
   Idenitfy which states are doing well and which are not. Shows where improvement needs to be made, or where stores may need to close and relocate. 
 
 2. Optimize product availability and selection.
