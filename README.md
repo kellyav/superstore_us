@@ -12,8 +12,13 @@ Profit may vary state to state due to taxes and cost of living. Number of Sales 
 
 3. Where can we trim some loses? Which products?
 
+## SQL
 
-## New variables
+- **orders_queries.sql**
+Answers these 3 main questions, using SQL commands.
+
+## Tableau:
+### New variables
 - *2015, 2016, 2017, 2018:* These 4 variables represent total Sales per respective year.
 
 Computation: IF DATEPART('year', [Ship Date])=2017 THEN [Sales] ELSE 0 END
@@ -26,9 +31,8 @@ Computation: (SUM([2018 (Sales)]) - SUM([2015 (Sales)])) / SUM([Sales])
 
 Computation: SUM(Profit) / SUM(Sales)
 
-  
 
-## Dashboard details
+### Dashboard details
 I. Map of the USA, color coded by total Profit per State
 
 Filters to see which states have positive or negative total profit growth percentage. 
