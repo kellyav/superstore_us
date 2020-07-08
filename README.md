@@ -1,7 +1,7 @@
 # superstore_us
 Analyze the Orders table, from the SuperstoreUS database, using SQL and Tableau.
 
-From the AWS instance: ec2–52–14–205–70.us-east-2.compute.amazonaws.com
+From the AWS instance: * ec2–52–14–205–70.us-east-2.compute.amazonaws.com *
 
 ## Basis:
 Quantify growth percentages based on Profit. This is how 'success' will be defined. See which states have more profit, or growth increase, than others.
