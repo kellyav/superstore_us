@@ -19,6 +19,9 @@ Profit may vary state to state due to taxes and cost of living. Number of Sales 
 Answers these 3 main questions, using SQL commands.
 
 ## Tableau:
+
+See the *Superstore_analysis2.pdf* file for a screenshot of the interactive dashboard.
+
 ### New variables
 - *2015, 2016, 2017, 2018:* These 4 variables represent total Sales per respective year.
 
