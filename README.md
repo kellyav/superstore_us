@@ -55,7 +55,6 @@ III. Histogram of Negative Profit Margin
 Dashboard is filtered to only include negative profit margin. This is a tool to visualize exactly where, and which products, are causing loss in Profit. We want to minimize these negative bars as much as possible. 
 
 
-
 ## Potential consequences from this analysis:
 1. Optimize locations.
   Idenitfy which states are doing well and which are not. Shows where improvement needs to be made, or where stores may need to close and relocate. 
