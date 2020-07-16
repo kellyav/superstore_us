@@ -10,15 +10,17 @@ Profit may vary state to state due to taxes and cost of living. Number of Sales 
 
 1. Which state(s) is the Superstore most succesful in? Least?
 
+**answered by running overall_success.sql**
+
 2. Most succesful product? Least?
+
+**answered by running product_profits.sql and product_salessuccess.sql**
+
 
 3. Where can we trim some loses? Which products?
 
-## SQL
+**answered by running trim_loses.sql**
 
-- **orders_queries.sql**
-
-Answers these 3 main questions, using SQL commands.
 
 ## Tableau:
 
@@ -67,3 +69,6 @@ See the requirements.txt file in this repo for more details, and installation in
 - Tableau Desktop
 - SQL Server Management Studio (SSMS).
 - A windows computer (for SSMS)
+
+Note: I was denied permissions using SSMS to create a table of the outputs of these queries due to the db not beng mine. The db has permission restrictions.
+
