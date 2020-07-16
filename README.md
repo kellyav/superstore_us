@@ -10,16 +10,16 @@ Profit may vary state to state due to taxes and cost of living. Number of Sales 
 
 1. Which state(s) is the Superstore most succesful in? Least?
 
-**answered by running overall_success.sql**
+*answered by running overall_success.sql*
 
 2. Most succesful product? Least?
 
-**answered by running product_profits.sql and product_salessuccess.sql**
+*answered by running product_profits.sql and product_salessuccess.sql*
 
 
 3. Where can we trim some loses? Which products?
 
-**answered by running trim_loses.sql**
+*answered by running trim_loses.sql*
 
 
 ## Tableau:
