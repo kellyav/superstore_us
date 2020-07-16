@@ -2,7 +2,7 @@
 
 We can do this by calculating the average sales and profits, and comparing the values to that average.
 If the sales or profits are below average, then they are not best sellers and 
-can be analyzed deeper to see if its worth selling thema anymore.
+can be analyzed deeper to see if its worth selling thema anymore. */
 
 SELECT AVG(sales) AS avg_sales
 FROM dbo.Orders;
@@ -24,5 +24,3 @@ SELECT AVG(Profit) AS avg_prof, [Sub-Category]
 FROM dbo.Orders
 GROUP BY [Sub-Category]
 ORDER BY avg_prof DESC;
-
--- denied permissions to create a table of the outputs of these queries due to the db not beng mine, and having permission restrictions.
